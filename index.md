@@ -13,3 +13,4 @@ This is all i have so far for my website.
 
 oh yeah! i made a gsme for the web!
 jacktotonchi.github.io/jacksgame
+<p><a href="./another-page.html">Link to another page</a>.</p>
