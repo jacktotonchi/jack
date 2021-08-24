@@ -10,3 +10,6 @@ My favorite things are technology and burgers.
 Fun fact! My real name is John! (**dont call me that.**)
 
 This is all i have so far for my website.
+
+oh yeah! i made a gsme for the web!
+jacktotonchi.github.io/jacksgame
