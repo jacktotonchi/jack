@@ -1,4 +1,4 @@
-## Hi! I'm Jack Totonchi
+## I'm Jack!
 
 I see you've come across my personal website. Use this as a way to get to know me!
 I'm always willing to help (with tech especially) so just ask!
