@@ -11,6 +11,6 @@ Fun fact! My real name is John! (**dont call me that.**)
 
 This is all i have so far for my website.
 
-oh yeah! i made a gsme for the web!
-jacktotonchi.github.io/jacksgame
-<p><a href="./another-page.html">Link to another page</a>.</p>
+oh yeah! i made a game for the web!
+
+<p><a href="./game.html">Link to the game</a>.</p>
