@@ -17,3 +17,5 @@ I made a gameboy game.
 <a href="./monkeycoin.obj">Download a monkey coin OBJ i made</a>
 
 <p><a href="./ball/index.html">first webgl game</a>.</p>
+
+<p><a href="./cheese-burger-q1yoznC-600.jpg">cheese burger</a>.</p>
