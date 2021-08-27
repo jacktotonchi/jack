@@ -1,18 +1,15 @@
 ## I'm Jack!
 
-I see you've come across my personal website. Use this as a way to get to know me!
-I'm always willing to help (with tech especially) so just ask!
+I use this website as a space to share what i have created.
 
 ### About Me
 
-My favorite things are technology and burgers.
-
-Fun fact! My real name is John! (**dont call me that.**)
+I'm currently learning C#
 
 This is all i have so far for my website.
 
-oh yeah! i made a game for the web!
+I made a gameboy game.
 
-<p><a href="./game.html">Link to the game</a>.</p>
-<a href="./monkeycoin.obj">Download monkey coin OBJ</a>
-<p><a href="./ball/index.html">a unity game i made</a>.</p>
+<p><a href="./game.html">Link to the gameboy game</a>.</p>
+<a href="./monkeycoin.obj">Download a monkey coin OBJ i made</a>
+<p><a href="./ball/index.html">first webgl game</a>.</p>
