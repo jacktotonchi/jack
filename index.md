@@ -19,4 +19,4 @@ I made a gameboy game.
 <p><a href="./ball/index.html">first webgl game</a>.</p>
 
 <p><a href="./cheese-burger-q1yoznC-600.jpg">cheese burger</a>.</p>
-<a href="jacktotonchi.me/funkin-for-webstite">literally fnf</a>
+<a href="www.jacktotonchi.me/funkin-for-webstite">literally fnf</a>
