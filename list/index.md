@@ -7,5 +7,5 @@
 <p><a href="https://www.amazon.com/dp/B087JKBM6W/ref=cm_sw_r_apan_glt_fabc_dl_9FJ6SYMX0EA2C271HVMW?_encoding=UTF8&psc=1">a special cord so i 
 can use the oculus quest on pc</a>.</p>
 
-<a href="https://www.vat19.com/item/slushy-maker/">mmmm slushie maker</a>
+<a href="https://www.vat19.com/item/slushy-maker.html">mmmm slushie maker</a>
 <a href="https://www.tutorialspoint.com/about/contact_us.htm">Contact</a>
