@@ -8,4 +8,4 @@
 can use the oculus quest on pc</a>.</p>
 
 <a href="https://www.vat19.com/item/slushy-maker.html">mmmm slushie maker</a>
-<a href="https://www.tutorialspoint.com/about/contact_us.htm">Contact</a>
+<a href="https://www.vat19.com/item/slushy-maker.html">slushie maker</a>
