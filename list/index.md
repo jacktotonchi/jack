@@ -11,4 +11,4 @@ can use the oculus quest on pc
 
 
 
-<a href="./list">this is a template button it does nothing</a>
+<a href="./">this is a template button it does nothing</a>
